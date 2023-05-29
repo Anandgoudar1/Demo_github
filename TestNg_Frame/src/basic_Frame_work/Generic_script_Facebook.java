@@ -22,5 +22,6 @@ public class Generic_script_Facebook {
   public void closeApp()
   {
 	  driver.close();
+	  //the script will do with @Test 
   }
 }
